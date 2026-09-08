@@ -1,48 +1,71 @@
-👋 Olá, eu sou Leonardo Junio de Paiva!
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💼 Promotor Líder de Vendas
-🚀 Iniciando minha jornada na área de Tecnologia e Desenvolvimento de Software
+# 👋 Olá, eu sou o Leonardo Junio de Paiva!
 
-🧑‍💻 Sobre mim
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💼 Promotor Líder de Vendas  
+🚀 Iniciando minha jornada na área de Tecnologia e Desenvolvimento de Software  
 
-Atualmente trabalho como Promotor Líder de Vendas e estou cursando Análise e Desenvolvimento de Sistemas.
+</div>
+
+---
+
+### 🧑‍💻 Sobre mim
+
+Atualmente trabalho como **Promotor Líder de Vendas** e estou cursando **Análise e Desenvolvimento de Sistemas**. 
 
 Estou dando meus primeiros passos na área de tecnologia, buscando desenvolver novos conhecimentos e construir uma base sólida em programação e desenvolvimento de software.
 
 Minha experiência profissional na área de vendas me ajudou a desenvolver habilidades como comunicação, liderança, organização, trabalho em equipe e foco em resultados — competências que também quero levar para minha futura carreira na tecnologia.
 
-📚 Atualmente estudando
-🎓 Análise e Desenvolvimento de Sistemas
-💻 Fundamentos de programação
-🐙 Git e GitHub
-🧠 Lógica de programação
-🚀 Desenvolvimento de software
-🌱 Minha jornada
+---
 
-Este perfil acompanha minha evolução como estudante e futuro profissional de tecnologia.
+### 📚 Atualmente estudando
+
+* 🎓 Análise e Desenvolvimento de Sistemas
+* 💻 Fundamentos de programação
+* 🐙 Git e GitHub
+* 🧠 Lógica de programação
+* 🚀 Desenvolvimento de software
+
+---
+
+### 🌱 Minha jornada
+
+Este perfil acompanha minha evolução como estudante e futuro profissional de tecnologia. 
 
 Ainda estou no começo e tenho muito a aprender, mas acredito que cada projeto, exercício e novo conhecimento faz parte da construção da minha carreira.
 
-"Todo especialista já foi um iniciante."
+> *"Todo especialista já foi um iniciante."*
 
-📂 Meus projetos
+---
 
-No momento, estou construindo meus primeiros projetos e exercícios durante minha formação.
+### 📂 Meus projetos
 
-🔎 Você pode acompanhar minha evolução através dos meus repositórios aqui no GitHub.
+No momento, estou construindo meus primeiros projetos e exercícios durante minha formação. Você pode acompanhar minha evolução através dos meus repositórios logo abaixo.
 
-🎯 Objetivos
-Aprender programação do zero
-Desenvolver meus primeiros projetos
-Construir um portfólio profissional
-Evoluir meus conhecimentos em desenvolvimento de software
-Fazer a transição para a área de Tecnologia
-Continuar aprendendo e me desenvolvendo profissionalmente
-📫 Contato
+---
 
-🐙 GitHub: Leonardo-Paiva-Dev
+### 🎯 Objetivos
 
-⭐ Obrigado por visitar meu perfil!
+- [x] Aprender programação do zero
+- [ ] Desenvolver meus primeiros projetos
+- [ ] Construir um portfólio profissional
+- [ ] Evoluir meus conhecimentos em desenvolvimento de software
+- [ ] Fazer a transição para a área de Tecnologia
+- [ ] Continuar aprendendo e me desenvolvendo profissionalmente
 
-Em constante aprendizado. Em constante evolução. 🚀
+---
+
+### 📫 Contato
+
+* 🐙 **GitHub:** [Leonardo-Paiva-Dev](https://github.com/Leonardo-Paiva-Dev)
+
+---
+
+<div align="center">
+
+*⭐ Obrigado por visitar meu perfil!*  
+*Em constante aprendizado. Em constante evolução. 🚀*
+
+</div>
